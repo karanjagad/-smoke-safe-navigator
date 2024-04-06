@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smoke-safe-navigator/static/css/main.075ad696.css",
+    "main.js": "/smoke-safe-navigator/static/js/main.f61f9c59.js",
+    "static/js/453.64512fd7.chunk.js": "/smoke-safe-navigator/static/js/453.64512fd7.chunk.js",
+    "index.html": "/smoke-safe-navigator/index.html",
+    "main.075ad696.css.map": "/smoke-safe-navigator/static/css/main.075ad696.css.map",
+    "main.f61f9c59.js.map": "/smoke-safe-navigator/static/js/main.f61f9c59.js.map",
+    "453.64512fd7.chunk.js.map": "/smoke-safe-navigator/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075ad696.css",
+    "static/js/main.f61f9c59.js"
+  ]
+}
